@@ -6,7 +6,7 @@
 
 <h2 align="center">
 
-Keagate *(&#107;&#105;&colon;&#103;&#101;&#618;&#116;)* – A High-Performance Cryptocurrency Payment Gateway
+PayTest *(&#107;&#105;&colon;&#103;&#101;&#618;&#116;)* – A High-Performance Cryptocurrency Payment Gateway
 
 </h2>
 <!--
