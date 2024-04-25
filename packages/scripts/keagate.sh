@@ -8,8 +8,8 @@
     fi
 
     INSTALL_DIR="$HOME"
-    FOLDER_NAME="Keagate"
-    REPO_LOCATION="https://github.com/dilan-dio4/$FOLDER_NAME"
+    FOLDER_NAME="PayTest"
+    REPO_LOCATION="https://github.com/X-Vlad/$FOLDER_NAME"
     NODE_ARGS=""
 
     # sudo chmod 777 -R .local
