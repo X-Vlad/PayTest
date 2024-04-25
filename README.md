@@ -16,20 +16,20 @@ Keagate *(&#107;&#105;&colon;&#103;&#101;&#618;&#116;)* – A High-Performance 
 --->
 
 <h4 align="center">
-    <img alt="Snyk vulnerabilities" src="https://shields.io/snyk/vulnerabilities/github/dilan-dio4/keagate?style=flat-square" />
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dilan-dio4/Keagate?style=flat-square">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dilan-dio4/Keagate?style=flat-square">
-    <a href="https://gitter.im/Keagate/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Gitter" src="https://img.shields.io/gitter/room/dilan-dio4/Keagate?style=flat-square"></a>
-    <a href="https://dilan-dio4.github.io/keagate-example-swagger/"><img alt="Swagger Validator" src="https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fdilan-dio4%2Fkeagate-example-swagger%2Fmain%2Fkeagate-openapi3.json&style=flat-square"></a>
+    <img alt="Snyk vulnerabilities" src="https://shields.io/snyk/vulnerabilities/github/X-Vlad/PayTest?style=flat-square" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/X-Vlad/PayTest?style=flat-square">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/X-Vlad/PayTest?style=flat-square">
+    <a href="https://gitter.im/Keagate/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img alt="Gitter" src="https://img.shields.io/gitter/room/X-Vlad/PayTest?style=flat-square"></a>
+    <!--<a href="https://dilan-dio4.github.io/keagate-example-swagger/"><img alt="Swagger Validator" src="https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fdilan-dio4%2Fkeagate-example-swagger%2Fmain%2Fkeagate-openapi3.json&style=flat-square"></a>--->
 </h4>
 
 <br />
 
 <p align="center">
-  <img src="assets/icon-tiny.png" width="150" alt="Keagate Icon">
+  <img src="assets/icon-tiny.png" width="150" alt="Icon">
 </p>
 
-<!-- TODO: Keagate Vector --->
+<!-- TODO: Vector --->
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -83,13 +83,13 @@ Funds go directly to your wallet via a one-time address that is generated for ea
 The purpose of this installation script is to get Keagate up-and-running quickly in a Linux environment. The CLI will guide you in configuring, managing, and securing the instance.
 
 ```bash
-bash -c "$(curl -sSL https://raw.githubusercontent.com/dilan-dio4/Keagate/main/packages/scripts/keagate.sh)"
+bash -c "$(curl -sSL https://raw.githubusercontent.com/X-Vlad/PayTest/main/packages/scripts/keagate.sh)"
 ```
 
 *Alternate*:
 
 ```bash
-curl -o keagate.sh https://raw.githubusercontent.com/dilan-dio4/Keagate/main/packages/scripts/keagate.sh
+curl -o keagate.sh https://raw.githubusercontent.com/X-Vlad/PayTest/main/packages/scripts/keagate.sh
 chmod +x keagate.sh
 ./keagate.sh
 ```
@@ -130,7 +130,7 @@ npm i -g pnpm
 pnpm setup
 pnpm -g pm2
 
-git clone https://github.com/dilan-dio4/Keagate
+git clone https://github.com/X-Vlad/PayTest
 cd Keagate
 pnpm i
 pnpm run build
